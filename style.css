@@ -2469,3 +2469,8 @@ select {
 	font-size: 1.5rem;
 	line-height: 1.2;
 }
+
+
+.elementor-heading-title.elementor-size-default::first-letter {
+	text-transform: uppercase;
+}
